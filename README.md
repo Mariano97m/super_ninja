@@ -1,2 +1,2 @@
-# super_ninja
+# Super Ninja
  Tarea de super ninja
